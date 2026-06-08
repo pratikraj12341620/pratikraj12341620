@@ -1,20 +1,5 @@
-# Hi, I’m Pratik Raj
+I am Pratik Raj, a dedicated 4th year undergraduate pursuing a Bachelor of Technology in Electrical Engineering at the Indian Institute of Technology (IIT) Bhilai. My academic journey is driven by a strong desire to bridge the gap between core engineering principles and modern computational technologies, allowing me to approach complex problems with a highly analytical and innovative mindset.
 
- I’m an Electrical Engineering student at IIT Bhilai, batch of 2027.
+My primary technical expertise sits at the dynamic intersection of Artificial Intelligence, Machine Learning, and Deep Learning. I specialize in architecting robust, end-to-end computer vision pipelines and actively leverage state-of-the-art neural network architectures to solve real-world challenges. My hands-on experience spans utilizing YOLOv8 for rapid object detection, LSTMs for predictive sequence modeling, Transformers for complex contextual tasks, and FaceNet for advanced biometric applications.
 
- I began my journey in tech through web development, building basic front-end projects. But as I explored more, I discovered a deep interest in Artificial Intelligence, Machine Learning, and Data Science — and shifted my focus toward these exciting fields.
-
- **Skills & Tools**
- **Languages**: Python, HTML, CSS  
- **Libraries**: Pandas, NumPy, Scikit-learn  
- **Tools**: Git, VS Code, Jupyter Notebook
-
- **Currently Learning**
-- Building an offline language translation tool using Hugging Face’s `m2m100` model
-
- **Current Work**
-- Working as an intern at **DRDO**, where I’m developing an offline language translator using pre-trained multilingual models like `m2m100`.
-
- **Reach me at**: [pratikee620@gmail.com](mailto:pratikee620@gmail.com)
-
-
+Beyond algorithmic development, I possess a comprehensive foundation in the Internet of Things (IoT) and embedded systems. I am deeply invested in the mechanics of cyber-physical integration, focusing heavily on seamless, real-time data acquisition and processing. My objective in this domain is to design and develop scalable, end-to-end hardware-software solutions that empower intelligent algorithms to interact effectively with the physical environment.
